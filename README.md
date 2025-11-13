@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahir1509&layout=compact&theme=holi&langs_count=8&card_width=468)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zahir1509&theme=darkhub&row=2&column=4&margin-w=8&margin-h=8)]
+<img src="https://github-profile-trophy.vercel.app/?username=zahir1509&theme=darkhub&row=2&column=4&margin-w=8&margin-h=8&no-frame=true&no-bg=true">
 
 ---
 
