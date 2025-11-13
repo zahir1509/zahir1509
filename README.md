@@ -11,7 +11,7 @@
   📫 How to reach me: ... <b>TBD</b> <br>
   😄 Pronouns: <b>he/him</b> <br>
   ⚡ Fun fact: ... <b>TBD</b> <br>
-  👨‍💻 My projects are available at <a href="zahir1509.github.io">zahir1509.github.io</a>
+  👨‍💻 My projects are available at <a href="https://zahir1509.github.io">zahir1509.github.io</a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zahir1509&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="zahir1509" /> </p>
