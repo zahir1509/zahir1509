@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=zahir1509" alt="GitHub Profile Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=zahir1509&theme=onedark&row=3&column=4" alt="GitHub Profile Trophy" />
       </a>
     </td>
   </tr>
