@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
----
-
 <p align="center">
   🔭 I’m currently working on ... <b>TBD</b> <br>
   🌱 I’m currently learning ... <b>TBD</b> <br>
@@ -157,6 +155,5 @@
   </tr>
 </table>
 
----
 
 </div>
