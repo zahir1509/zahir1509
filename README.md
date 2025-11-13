@@ -18,7 +18,7 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahir1509&show_icons=true&theme=holi&hide=prs,issues,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahir1509&show_icons=true&theme=holi&hide=prs,issues,contribs&rank_icon=github&commits_year=2020)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahir1509&layout=compact&theme=holi&langs_count=8&card_width=468)](https://github.com/anuraghazra/github-readme-stats)
 
