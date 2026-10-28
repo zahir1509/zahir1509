@@ -28,6 +28,8 @@ Work built for my employer is confidential, so it isn't here. The [case studies 
 
 ## Tools
 
+<div align="center">
+
 **Data and modelling**
 
 <picture>
@@ -51,9 +53,15 @@ Work built for my employer is confidential, so it isn't here. The [case studies 
 
 <sub>Also: tidyverse, plm, Shiny, Streamlit, ARIMA and BSTS, panel econometrics, Azure DevOps, GitHub Copilot.</sub>
 
+</div>
+
 ## Activity
 
+<div align="center">
+
 <img src="./github-metrics.svg" alt="GitHub activity" width="480">
+
+</div>
 
 <br>
 
