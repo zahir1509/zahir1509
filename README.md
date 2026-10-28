@@ -1,162 +1,68 @@
 <div align="center">
 
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/banner.png" alt="Zahir Ali, Data Analyst | Forecasting and Modelling" width="100%">
 
-<p align="center">
-  🔭 I’m currently working on ... <b>TBD</b> <br>
-  🌱 I’m currently learning ... <b>TBD</b> <br>
-  👯 I’m looking to collaborate on ... <b>TBD</b> <br>
-  🤔 I’m looking for help with ... <b>TBD</b> <br>
-  💬 Ask me about ... <b>TBD</b> <br>
-  📫 How to reach me: ... <b>TBD</b> <br>
-  😄 Pronouns: <b>he/him</b> <br>
-  ⚡ Fun fact: ... <b>TBD</b> <br>
-  👨‍💻 My projects are available at <a href="https://zahir1509.github.io">zahir1509.github.io</a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zahir1509&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="zahir1509" /> </p>
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahir1509&show_icons=true&theme=holi&hide=prs,issues,contribs&rank_icon=github&commits_year=2020)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahir1509&layout=compact&theme=holi&langs_count=8&card_width=468)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahir1509&theme=holi-theme&hide_border=false&card_width=468" alt="zahir1509">
-<p></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zahir1509&theme=darkhub&row=2&column=4&margin-w=8&margin-h=8&no-frame=true&no-bg=true">
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
-      <br>IFTTT
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-      <br>MATLAB
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-      <br>MS SQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-      <br>Seaborn
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-      <br>Selenium
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-      <br>TensorFlow
-    </td>
-  </tr>
-</table>
-
+<a href="https://zahir1509.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-zahir1509.github.io-14213d?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/zahir-ali19/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zahir%20Ali-0A66C2?style=for-the-badge"></a>
+<a href="https://www.instagram.com/anyonecanquiz/"><img alt="ACQ on Instagram" src="https://img.shields.io/badge/Instagram-%40anyonecanquiz-E4405F?style=for-the-badge"></a>
 
 </div>
+
+```text
+$ whoami
+zahir ali, data analyst at Euromonitor International
+
+$ cat role.txt
+Forecasting and statistical modelling in R, Python and SQL
+
+$ cat side_quest.txt
+Co-founder, Anyone Can Quiz (ACQ): a not-for-profit quiz community in Bangalore.
+I also wrote the software that runs it.
+
+$ cat open_to.txt
+New challenges, and collaborations between ACQ and other brands and communities.
+```
+
+## Anyone Can Quiz
+
+<a href="https://www.instagram.com/anyonecanquiz/"><img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/acq.png" alt="Anyone Can Quiz: a not-for-profit quiz community in Bangalore" width="100%"></a>
+
+Come see what we're up to: [@anyonecanquiz on Instagram](https://www.instagram.com/anyonecanquiz/).
+
+## Projects
+
+| Project | Type | What it is |
+|---|---|---|
+| [acq-general-quiz](https://github.com/zahir1509/acq-general-quiz) | App, public | Multi-pass written prelims for 50 to 100 teams on one offline router. Phones autosave answers, marking is grouped. |
+| acq-jeopardy, acq-jeopardy-pnb, acq-pounce-bounce | App, private | The other ACQ apps: buzzer Jeopardy, Jeopardy with Pounce & Bounce, and the Pounce & Bounce format we have hosted. Local-first, standard library only. |
+| [pol-dev](https://github.com/zahir1509/pol-dev) | Analysis | Principal component analysis on employment, consumption and infrastructure proxies in rural India. |
+| [Urban Local Bodies dataset](https://tcpd.ashoka.edu.in/urban-local-bodies-dataset/) | Dataset | Election data for 8 Indian states, built from scratch at the Trivedi Centre for Political Data. |
+| [facebook-scrape](https://github.com/zahir1509/facebook-scrape), [IAS-data](https://github.com/zahir1509/IAS-data) | Scrapers | Public-sector data: a state department's Facebook page and bureaucracy records. |
+| [Decision-Support](https://github.com/zahir1509/Decision-Support) | Course project | Hotel reviews scraped and run through NLTK sentiment analysis. |
+| [project-ap-etravel](https://github.com/zahir1509/project-ap-etravel) | Course project | Django hotel-booking platform. |
+
+Work built for my employer is confidential, so it isn't here. The [case studies on my website](https://zahir1509.github.io/#cases) are the anonymised version.
+
+## Tools
+
+**Data and modelling**
+
+<img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-data.png" alt="Python, R, Jupyter, NumPy, Pandas, Scikit-learn, Plotly, Seaborn, MySQL, SQLite, BigQuery, MongoDB" width="720">
+
+**Engineering**
+
+<img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-engineering.png" alt="Selenium, Git, GitLab CI/CD, Azure, Docker, Linux" width="720">
+
+**Web and design**
+
+<img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-web.png" alt="HTML5, CSS3, JavaScript, Django, Tailwind, Photoshop" width="720">
+
+<sub>Also: tidyverse, plm, Shiny, Streamlit, ARIMA and BSTS, panel econometrics, Azure DevOps, GitHub Copilot.</sub>
+
+## Activity
+
+<img src="./github-metrics.svg" alt="GitHub activity" width="100%">
+
+<br>
+
+<sub>Away from the keyboard: guitar, travel, video games (briefly semi-professional) and too many Reddit rabbit holes. he/him.</sub>
