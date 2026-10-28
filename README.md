@@ -8,26 +8,9 @@
 
 </div>
 
-```text
-$ whoami
-zahir ali, data analyst at Euromonitor International
+Data analyst at Euromonitor International, building forecasting and statistical models in R, Python and SQL.
 
-$ cat role.txt
-Forecasting and statistical modelling in R, Python and SQL
-
-$ cat side_quest.txt
-Co-founder, Anyone Can Quiz (ACQ): a not-for-profit quiz community in Bangalore.
-I also wrote the software that runs it.
-
-$ cat open_to.txt
-New challenges, and collaborations between ACQ and other brands and communities.
-```
-
-## Anyone Can Quiz
-
-<a href="https://www.instagram.com/anyonecanquiz/"><img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/acq.png" alt="Anyone Can Quiz: a not-for-profit quiz community in Bangalore" width="100%"></a>
-
-Come see what we're up to: [@anyonecanquiz on Instagram](https://www.instagram.com/anyonecanquiz/).
+I also co-founded [Anyone Can Quiz (ACQ)](https://www.instagram.com/anyonecanquiz/), a not-for-profit quiz community in Bangalore, and wrote the software that runs it. Come see what we're up to: [@anyonecanquiz on Instagram](https://www.instagram.com/anyonecanquiz/). Open to new challenges, and to collaborations between ACQ and other brands and communities.
 
 ## Projects
 
@@ -47,21 +30,30 @@ Work built for my employer is confidential, so it isn't here. The [case studies 
 
 **Data and modelling**
 
-<img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-data.png" alt="Python, R, Jupyter, NumPy, Pandas, Scikit-learn, Plotly, Seaborn, MySQL, SQLite, BigQuery, MongoDB" width="720">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-data-dark.png">
+  <img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-data-light.png" alt="Python, R, Jupyter, NumPy, Pandas, Scikit-learn, Plotly, Seaborn, MySQL, SQLite, BigQuery, MongoDB" width="720">
+</picture>
 
 **Engineering**
 
-<img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-engineering.png" alt="Selenium, Git, GitLab CI/CD, Azure, Docker, Linux" width="720">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-engineering-dark.png">
+  <img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-engineering-light.png" alt="Selenium, Git, GitLab CI/CD, Azure, Docker, Linux" width="720">
+</picture>
 
 **Web and design**
 
-<img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-web.png" alt="HTML5, CSS3, JavaScript, Django, Tailwind, Photoshop" width="720">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-web-dark.png">
+  <img src="https://raw.githubusercontent.com/zahir1509/zahir1509.github.io/main/images/readme/tools-web-light.png" alt="HTML5, CSS3, JavaScript, Django, Tailwind, Photoshop" width="720">
+</picture>
 
 <sub>Also: tidyverse, plm, Shiny, Streamlit, ARIMA and BSTS, panel econometrics, Azure DevOps, GitHub Copilot.</sub>
 
 ## Activity
 
-<img src="./github-metrics.svg" alt="GitHub activity" width="100%">
+<img src="./github-metrics.svg" alt="GitHub activity" width="480">
 
 <br>
 
